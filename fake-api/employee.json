@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Hüseyin ÇALIŞKAN",
+      "department": "Yazılım",
+      "salary": 150000,
+      "id": "5716"
+    },
+    {
+      "name": "Halil ÇALIŞKAN",
+      "department": "Donanım",
+      "salary": 100000,
+      "id": "0d99"
+    },
+    {
+      "name": "Yasemin ÇALIŞKAN",
+      "department": "Yazılım",
+      "salary": 120000,
+      "id": "2429"
+    }
+  ]
+}
